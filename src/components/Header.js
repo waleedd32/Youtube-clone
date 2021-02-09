@@ -1,4 +1,5 @@
 import React from "react";
+import "./Header.css";
 import MenuIcon from "@material-ui/icons/Menu";
 import SearchIcon from "@material-ui/icons/Search";
 import VideoCallIcon from "@material-ui/icons/VideoCall";
@@ -8,8 +9,7 @@ import Avatar from "@material-ui/core/avatar";
 
 function Header() {
   return (
-    <div>
-      <h1>This is header</h1>
+    <div className="header">
       <MenuIcon />
       <img
         className="header__logo"
