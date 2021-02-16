@@ -16,9 +16,14 @@ would get messed up then we need object-fit:contain, remember*/
   display: flex;
   align-items: center;
   width: 40%;
-  border: 1px solid lightgray;
+  border: 1px solid black;
 }
 .header__icons {
   display: flex;
   align-items: center;
+}
+
+.header__input > input {
+  flex: 1;
+  border: none;
 }
