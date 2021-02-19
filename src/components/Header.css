@@ -18,6 +18,13 @@ would get messed up then we need object-fit:contain, remember*/
   width: 40%;
   border: 1px solid black;
 }
+.header__inputButton {
+  width: 50px !important;
+  background-color: #fafafa;
+  border-left: 1px solid lightgray;
+  color: gray;
+}
+
 .header__icons {
   display: flex;
   align-items: center;
