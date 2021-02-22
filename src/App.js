@@ -9,6 +9,30 @@ function App() {
       <h1>This is going to become a Youtube Clone !</h1>
       {/* Header  -> <Header/> */}
       <Header />
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
+      <h1>TEST</h1>
       {/* Sidebar -> <Sidebar/>*/}
       {/* RecommendedVideo */}
     </div>

@@ -16,7 +16,11 @@ would get messed up then we need object-fit:contain, remember*/
   display: flex;
   align-items: center;
   width: 40%;
-  border: 1px solid black;
+  border: 1px solid lightgray;
+}
+
+.header__icon {
+  margin-right: 8px;
 }
 .header__inputButton {
   width: 50px !important;
