@@ -2,11 +2,11 @@ import React from "react";
 import "./SidebarRow.css";
 import HomeIcon from "@material-ui/icons/Home";
 
-function SidebarRow({ title }) {
+function SidebarRow({ Icon, title }) {
   return (
     <div className="sidebarRow">
-      <HomeIcon />
-      <h2>{title}</h2>
+      <Icon className="sidebarRow__icon" />
+      <h2 className="sidebarRow__title"> {title}</h2>
     </div>
   );
 }

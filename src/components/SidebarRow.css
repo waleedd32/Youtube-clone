@@ -3,3 +3,20 @@
   align-items: center;
   padding: 10px 20px;
 }
+.sidebarRow__icon {
+  color: #606060;
+  font-size: large !important;
+}
+
+.sidebarRow__title {
+  flex: 1;
+  /*jos haluat nähdä mitä ylempi tekee laita tää border: 1px solid black; */
+  margin-left: 20px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.sidebarRow:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
