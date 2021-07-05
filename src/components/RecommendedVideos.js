@@ -22,7 +22,14 @@ function RecommendedVideos() {
           channel="Sunny Sangha"
           image="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=470&hei=556&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1604021659000"
         />
-        <VideoCard />
+        <VideoCard
+          title="Elon Musk richest person"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
+          channel="Sunny Sangha"
+          image="https://img.etimg.com/thumb/width-640,height-480,imgsize-601228,resizemode-1,msid-80172545/tech/technology/whatsapp-rival-signal-reports-growing-pains-after-elon-musks-tweet/elon-musk.jpg"
+        />
         <VideoCard />
       </div>
     </div>
