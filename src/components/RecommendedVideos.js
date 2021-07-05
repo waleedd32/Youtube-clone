@@ -30,7 +30,14 @@ function RecommendedVideos() {
           channel="Sunny Sangha"
           image="https://img.etimg.com/thumb/width-640,height-480,imgsize-601228,resizemode-1,msid-80172545/tech/technology/whatsapp-rival-signal-reports-growing-pains-after-elon-musks-tweet/elon-musk.jpg"
         />
-        <VideoCard />
+        <VideoCard
+          title="Voldemort real story"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
+          channel="Sunny Sangha"
+          image="https://cdn.images.express.co.uk/img/dynamic/39/590x/harry-potter-voldemort-snape-1317348.webp?r=1596285344363"
+        />
       </div>
     </div>
   );
