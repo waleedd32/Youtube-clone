@@ -38,6 +38,14 @@ function RecommendedVideos() {
           channel="Sunny Sangha"
           image="https://cdn.images.express.co.uk/img/dynamic/39/590x/harry-potter-voldemort-snape-1317348.webp?r=1596285344363"
         />
+        <VideoCard
+          title="Banoo mein teri dulhann"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
+          channel="Sunny Sangha"
+          image="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-6-107/list/banoomainteridulhann1170x6.jpg"
+        />
       </div>
     </div>
   );
