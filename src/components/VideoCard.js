@@ -1,5 +1,6 @@
 import React from "react";
 import { Avatar } from "@material-ui/core";
+import "./VideoCard.css";
 function VideoCard({ image, title, channel, views, timestamp, channelImage }) {
   return (
     <div className="videoCard">
