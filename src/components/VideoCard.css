@@ -18,3 +18,14 @@
   font-size: 14px;
   margin-bottom: 5px;
 }
+
+.videoCard__text > p {
+  font-size: 14px;
+  color: gray;
+}
+
+.videoCard__avatar {
+  height: 30px !important;
+  height: 30px !important;
+  /* avatar is material ui element, so have to overwrite in css */
+}
