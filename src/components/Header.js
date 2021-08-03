@@ -6,6 +6,7 @@ import VideoCallIcon from "@material-ui/icons/VideoCall";
 import AppsIcon from "@material-ui/icons/Apps";
 import NotificationsIcon from "@material-ui/icons/Notifications";
 import Avatar from "@material-ui/core/avatar";
+import { Link } from "react-router-dom";
 
 function Header() {
   const [inputSearch, setInputSearch] = useState("");
@@ -27,7 +28,9 @@ function Header() {
           placeholder="Search"
           type="text"
         />
-        <SearchIcon className="header__inputButton" />
+        <Link to={`/search/${inputSearch}`}>
+          <SearchIcon className="header__inputButton" />
+        </Link>
       </div>
       <div className="header__icons">
         <VideoCallIcon className="header__icon" />
