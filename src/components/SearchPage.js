@@ -10,6 +10,7 @@ function SearchPage() {
         <TuneOutlinedIcon />
         <h2>filter</h2>
       </div>
+      <hr />
     </div>
   );
 }
