@@ -1,6 +1,7 @@
 import React from "react";
 import { Avatar } from "@material-ui/core";
 import VerifiedIcon from "@material-ui/icons/CheckCircleOutlineOutlined";
+import "./ChannelRow.css";
 
 function ChannelRow({
   image,
@@ -20,6 +21,7 @@ function ChannelRow({
         <p>
           {subs} subscribers • {noOfVideos}
         </p>
+        <p>{description}</p>
       </div>
     </div>
   );
