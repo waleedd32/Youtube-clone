@@ -3,3 +3,8 @@
   align-items: center;
   width: 70%;
 }
+
+.channelRow__text > p {
+  color: #606060;
+  font-size: small !important;
+}
