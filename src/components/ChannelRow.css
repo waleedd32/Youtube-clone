@@ -19,3 +19,9 @@
   width: 120px !important;
   margin: 10px 60px;
 }
+
+.channelRow__text > h4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

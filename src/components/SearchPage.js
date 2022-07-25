@@ -20,6 +20,7 @@ function SearchPage() {
         noOfVideos={382}
         description="You can find awesome programming videos here"
       />
+      <hr />
     </div>
   );
 }
