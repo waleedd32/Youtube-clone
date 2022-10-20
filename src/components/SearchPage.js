@@ -3,6 +3,7 @@ import TuneOutlinedIcon from "@material-ui/icons/TuneOutlined";
 // import TuneOutlined from "@material-ui/icons/TuneOutlined";
 import "./SearchPage.css";
 import ChannelRow from "./ChannelRow";
+import VideoRow from "./VideoRow";
 
 function SearchPage() {
   return (
@@ -21,6 +22,7 @@ function SearchPage() {
         description="You can find awesome programming videos here"
       />
       <hr />
+      <VideoRow />
     </div>
   );
 }
