@@ -1,6 +1,14 @@
 import React from "react";
 
-function VideoRow() {
+function VideoRow({
+  views,
+  subs,
+  description,
+  timestamp,
+  channel,
+  title,
+  image,
+}) {
   return <div></div>;
 }
 

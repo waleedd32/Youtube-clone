@@ -22,7 +22,15 @@ function SearchPage() {
         description="You can find awesome programming videos here"
       />
       <hr />
-      <VideoRow />
+      <VideoRow
+        views="1.2M"
+        subs="779K"
+        description="You can find awesome programming videos here"
+        timestamp="59 seconds ago"
+        channel="Waleedd32"
+        title="Lets build a youtube clone"
+        image="https://media.sproutsocial.com/uploads/2017/11/how-to-create-a-YouTube-account.png"
+      />
     </div>
   );
 }
