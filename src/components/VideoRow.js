@@ -13,6 +13,10 @@ function VideoRow({
   return (
     <div className="videoRow">
       <img src={image} alt="" />
+      <div className="videoRow__text">
+        {" "}
+        <h3>{title} </h3>
+      </div>
     </div>
   );
 }
