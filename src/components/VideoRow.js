@@ -1,4 +1,5 @@
 import React from "react";
+import "./VideoRow.css";
 
 function VideoRow({
   views,
@@ -9,7 +10,11 @@ function VideoRow({
   title,
   image,
 }) {
-  return <div></div>;
+  return (
+    <div className="videoRow">
+      <img src={image} alt="" />
+    </div>
+  );
 }
 
 export default VideoRow;
