@@ -15,12 +15,12 @@ function RecommendedVideos() {
           image="https://distribution.faceit-cdn.net/images/f8480630-1dda-460b-b07b-d5d4589ec63c.jpeg"
         />
         <VideoCard
-          title="Iphone 12 is selling like hot cake"
+          title="iPhone 14 Pro: Everything the Dynamic Island Can Do!"
           views="2M Views"
           timestamp="4 days ago"
           channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
           channel="Jebordoq"
-          image="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=470&hei=556&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1604021659000"
+          image="https://suomimobiili.fi/wp-content/uploads/2022/09/iphone-14-pro-2-1024x582.jpg"
         />
         <VideoCard
           title="Elon Musk richest person"
@@ -47,15 +47,15 @@ function RecommendedVideos() {
           image="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-6-107/list/banoomainteridulhann1170x6.jpg"
         />
         <VideoCard
-          title="Become a web developer in 10 minutes | 2019/2020"
+          title="Every CONFIRMED PSVR 2 Launch Game!"
           views="2.3M Views"
           timestamp="3 days ago"
           channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
           channel="Develop sites"
-          image="https://www.3dorganon.com/wp-content/uploads/2020/10/oculus-quest-2-256.png"
+          image="https://www.v2.fi/images/games/news/35857/pic1.jpg"
         />
         <VideoCard
-          title="Virtual Reality is real now !"
+          title="Quest Pro is impressive. Here’s why you should or should not buy it."
           views="2.3M Views"
           timestamp="3 days ago"
           channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
@@ -63,12 +63,12 @@ function RecommendedVideos() {
           image="https://static-ai.asianetnews.com/images/01gf5rq8ghdzrm9y3ad5bzzp8n/whatsapp-image-2022-10-12-at-2-54-19-pm_1200x900xt.jpg"
         />
         <VideoCard
-          title="Iphone 12 is selling like hot cake"
+          title="UKRAINAN SOTA, mitä Ukrainassa tapahtuu?"
           views="2M Views"
           timestamp="4 days ago"
           channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
           channel="Jebordoq"
-          image="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-gold-hero?wid=470&hei=556&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1604021659000"
+          image="https://images.cdn.yle.fi/image/upload/w_1200,h_675,ar_1.7777777777777777,dpr_1,c_fill,g_faces/q_auto:eco,f_auto,fl_lossy/v1642748369/13-3-12279673"
         />
         <VideoCard
           title="Elon Musk richest person"

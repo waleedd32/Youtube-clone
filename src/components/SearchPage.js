@@ -25,7 +25,7 @@ function SearchPage() {
       <VideoRow
         views="1.2M"
         subs="779K"
-        description="You can find awesome programming videos here"
+        description="Let's explore the new features and improvements in Next.js 13"
         timestamp="59 seconds ago"
         channel="Waleedd32"
         title="NEXT.js 13 Exploring the New Features"
@@ -34,7 +34,7 @@ function SearchPage() {
       <VideoRow
         views="1.4M"
         subs="254K"
-        description="You can find awesome programming videos here"
+        description="In this video you will learn how to create covid-19 tracker using reactjs"
         timestamp="4 days ago"
         channel="Waleedd32"
         title="Lets build a coronavirus tracker"
@@ -43,7 +43,7 @@ function SearchPage() {
       <VideoRow
         views="1.4M"
         subs="742K"
-        description="You can find awesome programming videos here"
+        description="Learn why web developers love tailwind in this breakdown"
         timestamp="4 weeks ago"
         channel="Waleedd32"
         title="Why is everyone talking about Tailwind?"
