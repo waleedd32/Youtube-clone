@@ -3,6 +3,11 @@
   width: 270px;
   cursor: pointer;
 }
+.videoCard:hover {
+  transform: scale(1.2);
+  transition: all 1s;
+}
+
 .videoCard__thumbnail {
   height: 140px;
   width: 250px;
