@@ -13,6 +13,11 @@
   margin-left: 14px;
 }
 
+.videoRow__subs {
+  background-color: lightgray;
+  padding: 2px;
+}
+
 .videoRow__description {
   margin-top: 20px;
   font-size: 12px;

@@ -28,8 +28,44 @@ function SearchPage() {
         description="You can find awesome programming videos here"
         timestamp="59 seconds ago"
         channel="Waleedd32"
-        title="Lets build a youtube clone"
-        image="https://media.sproutsocial.com/uploads/2017/11/how-to-create-a-YouTube-account.png"
+        title="NEXT.js 13 Exploring the New Features"
+        image="https://miro.medium.com/max/1400/1*2bWfIPZDxwbTMbbVPEfBxQ.png"
+      />
+      <VideoRow
+        views="1.4M"
+        subs="254K"
+        description="You can find awesome programming videos here"
+        timestamp="4 days ago"
+        channel="Waleedd32"
+        title="Lets build a coronavirus tracker"
+        image="https://flockler.com/thumbs/sites/657/photo-1583324113626-70df0f4deaab-38f802d2-84b9-430d-b7ed-9bbf29c46f0c_s1430x0_q80_noupscale.jpg"
+      />
+      <VideoRow
+        views="1.4M"
+        subs="742K"
+        description="You can find awesome programming videos here"
+        timestamp="4 weeks ago"
+        channel="Waleedd32"
+        title="Why is everyone talking about Tailwind?"
+        image="https://miro.medium.com/max/644/1*d7Xs5RnaqcQtKzbNrAOAYA.png"
+      />
+      <VideoRow
+        views="1.4M"
+        subs="835K"
+        description="You can find awesome programming videos here"
+        timestamp="1 week ago"
+        channel="Waleedd32"
+        title="Lets build google clone"
+        image="https://media2.s-nbcnews.com/j/streams/2013/March/130326/1C6639340-google-logo.nbcnews-fp-1024-512.jpg"
+      />
+      <VideoRow
+        views="1.4M"
+        subs="596K"
+        description="You can find awesome programming videos here"
+        timestamp="2 weeks ago"
+        channel="Waleedd32"
+        title="Lets build netflix clone"
+        image="https://cdn.vox-cdn.com/thumbor/-YJK_3LGGH5CKmFtrpk_zZKEGnY=/1400x1400/filters:format(png)/cdn.vox-cdn.com/assets/755523/netflix-logo-705px.png"
       />
     </div>
   );
