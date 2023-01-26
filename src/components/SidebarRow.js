@@ -4,7 +4,7 @@ import HomeIcon from "@material-ui/icons/Home";
 
 function SidebarRow({ selected, Icon, title }) {
   return (
-    <div className={`sidebarRow ${selected && "selected"} `}>
+    <div className={`sidebarRow ${selected && "selected"} `} title={title}>
       {" "}
       <Icon className="sidebarRow__icon" />
       <h2 className="sidebarRow__title"> {title}</h2>
