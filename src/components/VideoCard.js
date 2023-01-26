@@ -3,7 +3,7 @@ import { Avatar } from "@material-ui/core";
 import "./VideoCard.css";
 function VideoCard({ image, title, channel, views, timestamp, channelImage }) {
   return (
-    <div className="videoCard">
+    <div className="videoCard" title={title}>
       {" "}
       <img className="videoCard__thumbnail" src={image} alt="" />
       <div className="videoCard__info">
