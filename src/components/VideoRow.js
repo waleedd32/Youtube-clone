@@ -14,7 +14,9 @@ function VideoRow({
     <div className="videoRow">
       <img src={image} alt="" />
       <div className="videoRow__text">
-        <h3>{title} </h3>
+        <h3 className="videoRow__title" title={title}>
+          {title}{" "}
+        </h3>
         <p className="videoRow__headline">
           {channel} •
           <span className="videoRow__subs">

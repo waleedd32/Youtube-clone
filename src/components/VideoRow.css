@@ -12,6 +12,9 @@
 .videoRow__text {
   margin-left: 14px;
 }
+.videoRow__title {
+  cursor: pointer;
+}
 
 .videoRow__subs {
   background-color: lightgray;
