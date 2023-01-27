@@ -8,7 +8,7 @@ function RecommendedVideos() {
       <div className="recommendedVideos__videos">
         <VideoCard
           title="The Most Googled Man in the World Refuses to be Cancelled"
-          views="2.3M Views"
+          views="2.3M views"
           timestamp="3 days ago"
           channelImage="https://staticdelivery.nexusmods.com/mods/4205/images/thumbnails/1591/1591-1659971642-1566124683.gif"
           channel="Unknown"

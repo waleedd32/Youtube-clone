@@ -16,7 +16,12 @@ function ChannelRow({
       <Avatar className="channelRow__logo" alt={channel} src={image} />
       <div className="channelRow__text">
         <h4>
-          {channel} {verified && <VerifiedIcon />}
+          <span title={channel}> {channel}</span>{" "}
+          {verified && (
+            <span title="Verified">
+              <VerifiedIcon />
+            </span>
+          )}
         </h4>
         <p>
           {subs} subscribers • {noOfVideos}

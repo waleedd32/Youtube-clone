@@ -3,7 +3,9 @@
   width: 270px;
   cursor: pointer;
 }
-.videoCard:hover {
+
+/* hover over img to make whole videoCard bigger */
+.videoCard:has(.videoCard__thumbnail:hover) {
   transform: scale(1.2);
   transition: all 1s;
 }

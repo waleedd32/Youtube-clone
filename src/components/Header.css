@@ -16,6 +16,10 @@ but if it was png it would get distorted and it
 would get messed up then we need object-fit:contain, remember*/
   margin-left: 20px;
 }
+
+.header__left {
+  display: flex;
+}
 .header__input {
   display: flex;
   align-items: center;
@@ -31,6 +35,7 @@ would get messed up then we need object-fit:contain, remember*/
   background-color: #fafafa;
   border-left: 1px solid lightgray;
   color: gray;
+  display: flex !important;
 }
 
 .header__icons {
