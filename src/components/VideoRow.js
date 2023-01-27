@@ -17,8 +17,8 @@ function VideoRow({
         <h3 className="videoRow__title" title={title}>
           {title}{" "}
         </h3>
-        <p className="videoRow__headline" title={channel}>
-          {channel} •
+        <p className="videoRow__headline">
+          <span title={channel}>{channel}</span> •
           <span className="videoRow__subs">
             <span className="videoRow__subsNumber"> {subs} </span>
             Subscribers

@@ -48,9 +48,18 @@ function Header() {
         </Link>
       </div>
       <div className="header__icons">
-        <VideoCallIcon className="header__icon" />
-        <AppsIcon className="header__icon" />
-        <NotificationsIcon className="header__icon" />
+        <span title="Create">
+          <VideoCallIcon className="header__icon" />
+        </span>
+        <span>
+          <AppsIcon className="header__icon" />
+        </span>
+
+        <span title="Notifications">
+          {" "}
+          <NotificationsIcon className="header__icon" />
+        </span>
+
         <Avatar
           alt="Remy Sharp"
           src="https://avatars.githubusercontent.com/u/32420369?s=400&u=c53a0c0b6af70645e081570176c3a4732eadaad1&v=4"
