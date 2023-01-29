@@ -3,8 +3,11 @@
   align-items: center;
   justify-content: space-between;
   padding: 20px;
-  position: sticky;
+  position: -webkit-sticky; /* Safari */
+  position: fixed;
   top: 0;
+  width: 100%;
+  left: 0;
   z-index: 100;
   background-color: white;
 }
@@ -23,8 +26,12 @@ would get messed up then we need object-fit:contain, remember*/
 .header__input {
   display: flex;
   align-items: center;
-  width: 40%;
-  border: 1px solid lightgray;
+  width: 58%;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  min-width: 10%;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 2em;
+  padding: 5px;
 }
 
 .header__icon {
@@ -42,15 +49,25 @@ would get messed up then we need object-fit:contain, remember*/
   border-left: 1px solid lightgray;
   color: gray;
   display: flex !important;
+  border-radius: 2em;
 }
 
 .header__icons {
   display: flex;
   align-items: center;
   cursor: pointer;
+  margin-right: 5%;
 }
 
 .header__input > input {
   flex: 1;
   border: none;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.01);
+}
+
+@media (max-width: 926px) {
+  .disable {
+    display: none !important;
+  }
 }

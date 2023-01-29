@@ -49,15 +49,12 @@ function Header() {
       </div>
       <div className="header__icons">
         <span title="Create">
-          <VideoCallIcon className="header__icon" />
-        </span>
-        <span>
-          <AppsIcon className="header__icon" />
+          <VideoCallIcon className="header__icon disable" />
         </span>
 
         <span title="Notifications">
           {" "}
-          <NotificationsIcon className="header__icon" />
+          <NotificationsIcon className="header__icon disable" />
         </span>
 
         <Avatar

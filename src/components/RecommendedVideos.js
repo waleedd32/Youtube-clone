@@ -4,7 +4,7 @@ import VideoCard from "./VideoCard";
 function RecommendedVideos() {
   return (
     <div className="recommendedVideos">
-      <h2>Recommended</h2>
+      <h2 className="recommendedVideos__h2">Recommended</h2>
       <div className="recommendedVideos__videos">
         <VideoCard
           title="The Most Googled Man in the World Refuses to be Cancelled"
@@ -12,7 +12,7 @@ function RecommendedVideos() {
           timestamp="3 days ago"
           channelImage="https://staticdelivery.nexusmods.com/mods/4205/images/thumbnails/1591/1591-1659971642-1566124683.gif"
           channel="Unknown"
-          image="https://distribution.faceit-cdn.net/images/f8480630-1dda-460b-b07b-d5d4589ec63c.jpeg"
+          image="https://live-production.wcms.abc-cdn.net.au/500598a4e1200a81a819db6ad2f7812e?impolicy=wcms_crop_resize&cropH=720&cropW=1080&xPos=0&yPos=0&width=862&height=575"
         />
         <VideoCard
           title="iPhone 14 Pro: Everything the Dynamic Island Can Do!"

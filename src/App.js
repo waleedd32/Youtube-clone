@@ -12,6 +12,8 @@ function App() {
       <Router>
         {/* Header outside switch so it comes up always */}
         <Header />
+        <div className="header__fake"></div>
+
         <Switch>
           <Route path="/search/:searchTerm">
             <div className="app__page">
