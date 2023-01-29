@@ -27,7 +27,7 @@
   padding: 9px;
 }
 
-@media (max-width: 926px) {
+@media (max-width: 831px) {
   .recommendedVideos__videos {
     justify-content: center;
     display: grid;

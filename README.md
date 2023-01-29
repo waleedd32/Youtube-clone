@@ -1,3 +1,28 @@
+# Youtube-clone
+
+- [Click here to view the project](https://clone-6cfdb.web.app/)
+
+## Setup an Run
+
+- Clone this repository.
+- Setup Firebase(See below (For free Firebase hosting(deploy))
+- Install Dependencies.
+- After setup Firebase and installed Dependencies, you can run application
+
+### Firebase (if you want to deploy/host it)
+
+- Visit [console](https://console.firebase.google.com)
+- Create Project. (Project name can be anything.)
+
+## Dependencies
+
+- [Firebase](https://firebase.google.com/docs)
+-
+
+Made with :heart: by Valid
+
+- [Click here to view project](https://clone-6cfdb.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

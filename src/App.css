@@ -8,7 +8,7 @@
   background-color: white;
 }
 
-@media (max-width: 926px) {
+@media (max-width: 831px) {
   .app__page {
     justify-content: center;
     display: block;

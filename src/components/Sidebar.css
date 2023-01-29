@@ -13,7 +13,7 @@
   margin-bottom: 10px;
 }
 
-@media (max-width: 926px) {
+@media (max-width: 831px) {
   .sidebar {
     display: none;
   }
