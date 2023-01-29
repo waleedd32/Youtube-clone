@@ -5,7 +5,7 @@
   /* this is because .header is fixed and its hard 
   to put something under it so this is workaround it */
   padding: 40px;
-  background-color: blue;
+  background-color: white;
 }
 
 @media (max-width: 926px) {
