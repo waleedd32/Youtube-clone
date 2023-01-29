@@ -13,6 +13,7 @@
 .videoCard__thumbnail {
   height: 140px;
   width: 250px;
+  border-radius: 1em;
 }
 .videoCard__info {
   display: flex;

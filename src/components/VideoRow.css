@@ -8,6 +8,7 @@
   width: 246px;
   height: 138px;
   cursor: pointer;
+  border-radius: 1em;
 }
 
 .videoRow__text {
