@@ -17,7 +17,6 @@
 ## Dependencies
 
 - [Firebase](https://firebase.google.com/docs)
--
 
 Made with :heart: by Valid
 
