@@ -13,7 +13,7 @@
 }
 
 .header__logo {
-  height: 25px;
+  height: 2rem;
   /* object-fit: contain;  we have svg vector as youtube logo,
 but if it was png it would get distorted and it
 would get messed up then we need object-fit:contain, remember*/
@@ -22,6 +22,7 @@ would get messed up then we need object-fit:contain, remember*/
 
 .header__left {
   display: flex;
+  align-items: center;
 }
 .header__input {
   display: flex;

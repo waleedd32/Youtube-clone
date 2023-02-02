@@ -7,6 +7,8 @@ import AppsIcon from "@material-ui/icons/Apps";
 import NotificationsIcon from "@material-ui/icons/Notifications";
 import Avatar from "@material-ui/core/avatar";
 import { Link, useHistory } from "react-router-dom";
+import avatar from "./avatar.jpg";
+import Jebordoq from "./Jebordoq.png";
 
 function Header() {
   const [inputSearch, setInputSearch] = useState("");
@@ -28,11 +30,7 @@ function Header() {
       <div className="header__left">
         <MenuIcon />
         <Link to="/" onClick={() => setInputSearch("")}>
-          <img
-            className="header__logo"
-            src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg"
-            alt=""
-          />
+          <img className="header__logo" src={Jebordoq} alt="" />
         </Link>
       </div>
       <div className="header__input">
@@ -57,10 +55,7 @@ function Header() {
           <NotificationsIcon className="header__icon disable" />
         </span>
 
-        <Avatar
-          alt="Remy Sharp"
-          src="https://avatars.githubusercontent.com/u/32420369?s=400&u=c53a0c0b6af70645e081570176c3a4732eadaad1&v=4"
-        />
+        <Avatar alt="Remy Sharp" src={avatar} />
       </div>
     </div>
   );
