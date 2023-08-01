@@ -1,4 +1,13 @@
-# Youtube-clone
+# Jebordoq - A React Video Sharing App
+
+Jebordoq is a simplistic video sharing web application built with React. The application borrows inspiration from popular video sharing platforms, enabling users to discover recommended videos, navigate between different categories, and perform in-app searches for their preferred content (not using youtube api).
+
+## Features
+
+- View recommended videos
+- In-app video search functionality (not using youtube api)
+- Multiple categories of videos are showcased, (please note they are currently not clickable)
+- Responsive design
 
 - [Click here to view the project](https://clone-6cfdb.web.app/)
 
