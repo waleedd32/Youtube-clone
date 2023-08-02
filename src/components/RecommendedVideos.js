@@ -100,7 +100,7 @@ function RecommendedVideos() {
           timestamp="3 days ago"
           channelImage="https://www.nbc.com/sites/nbcunbc/files/images/2018/7/31/Heroes-KeyArt-Logo-Show-Tile-1920x1080.jpg"
           channel="Develop sites"
-          image="https://www.3dorganon.com/wp-content/uploads/2020/10/oculus-quest-2-256.png"
+          image="https://i.ytimg.com/vi/-02D-hOKH-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDPScSY8d0i_owPjTN9l42ud450hg"
         />
       </div>
     </div>
