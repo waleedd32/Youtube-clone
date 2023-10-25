@@ -1,9 +1,7 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Avatar } from "@material-ui/core";
 import "./VideoCard.css";
 function VideoCard({ image, title, channel, views, timestamp, channelImage }) {
-  const containerRef = React.useRef(null);
-
   const [isHovered, setIsHovered] = useState(false);
 
   return (
