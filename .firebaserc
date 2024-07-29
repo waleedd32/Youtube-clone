@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "clone-6cfdb"
-  }
+    "default": "clone-9424f",
+    "staging": "clone-9424f"
+  },
+  "targets": {},
+  "etags": {}
 }

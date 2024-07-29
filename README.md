@@ -9,7 +9,7 @@ Jebordoq is a simplistic video sharing web application built with React. The app
 - Multiple categories of videos are showcased, (please note they are currently not clickable)
 - Responsive design
 
-- [Click here to view the project](https://clone-6cfdb.web.app/)
+- [Click here to view the project](https://clone-9424f.web.app/)
 
 ## Setup an Run
 
@@ -29,7 +29,7 @@ Jebordoq is a simplistic video sharing web application built with React. The app
 
 Made with :heart: by Valid
 
-- [Click here to view project](https://clone-6cfdb.web.app/)
+- [Click here to view project](https://clone-9424f.web.app/)
 
 # Getting Started with Create React App
 
